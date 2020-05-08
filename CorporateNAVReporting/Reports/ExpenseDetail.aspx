@@ -9,7 +9,7 @@
                 <p></p>
 
                 <div class="x_title">
-                    <h2>Account Detail</h2>
+                    <h2>Account Transaction Detail</h2>
                 </div>
 
                 <div class="x_content">
